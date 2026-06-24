@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MongoDBConnectionWithJava">
+        <property name="context-root" value="MongoDBConnectionWithJava"/>
+        <property name="java-output-path" value="/MongoDBConnectionWithJava/build/classes"/>
+    </wb-module>
+</project-modules>
